@@ -4,6 +4,7 @@
 *.dll
 *.so
 *.dylib
+/build/package/guser
 
 # Test binary, built with `go test -c`
 *.test
